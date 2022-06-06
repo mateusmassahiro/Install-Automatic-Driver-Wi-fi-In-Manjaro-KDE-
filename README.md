@@ -1,5 +1,5 @@
 # Install-Automatic-Driver-Wi-fi-In-Manjaro-KDE-
-Auto install Wi-Fi in Manjaro KDE, via Python
+Auto install Driver Dongle Wi-Fi D-Link DWA-171 in Manjaro KDE, via Python
 
 English language: 
 Step 1: In the console write the line
@@ -24,6 +24,7 @@ Step 9: Plug your Donglo into the Computer.
 Step 10: Restart your computer, and in the network options, the Wi-Fi networks will appear.
 
 Idioma Português-BR:
+Instalação automática do driver do Dongle Wi-Fi D-Link DWA-171 no Manjaro KDE, via Python
 Passo 1: No console escreva a linha
 `Pacman -S python-pip`
 
